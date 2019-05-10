@@ -1,0 +1,91 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    padding: 20px;
+    width: auto;
+    background-color: #CCCCCC;
+    height: auto;
+}
+
+.pixelBackground {
+    background-color: #E5E5E5;
+    height: auto;
+    padding: 15px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#tableCanvas {
+    align-content: center;
+    background-color: white;
+    margin:15px;
+    padding-left: 12px;
+}
+
+.column {
+    display: flex;
+    border:1px dotted #7f7f7f;
+    width:20px;
+    height:20px;
+    align-content: center;
+    background-color: white;
+}
+
+.button {
+  padding: 15px;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+#yellow {
+  background-color: yellow; 
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green; 
+}
+
+#brown {
+  background-color: brown; 
+}
+
+#blue {
+  background-color: blue; 
+}
+
+#orange {
+  background-color: orange
+}
+
+#pink {
+  background-color: pink
+}
+
+#black {
+  background-color: black
+}
+
+#purple {
+  background-color: purple
+}
+
+#teal {
+  background-color: teal;
+}
+
+input {
+    width: 20%;
+}
+
+label {
+    color:rgb(121, 115, 115);
+}
