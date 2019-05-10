@@ -1,0 +1,19 @@
+{
+  "name": "pixel-art-maker",
+  "version": "1.0.0",
+  "description": "Pixer Art Maker using html, css and javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirleymramirez/pixel-art-maker.git"
+  },
+  "author": "Shirley Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirleymramirez/pixel-art-maker/issues"
+  },
+  "homepage": "https://github.com/shirleymramirez/pixel-art-maker#readme"
+}

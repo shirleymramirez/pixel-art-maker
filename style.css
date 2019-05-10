@@ -23,6 +23,7 @@
     background-color: white;
     margin:15px;
     padding-left: 12px;
+    cursor: pointer;
 }
 
 .column {
@@ -88,4 +89,8 @@ input {
 
 label {
     color:rgb(121, 115, 115);
+}
+
+#colorName {
+    text-align: 'center'
 }
